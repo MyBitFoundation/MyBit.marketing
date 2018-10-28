@@ -1,0 +1,72 @@
+﻿The MyBit Token Distribution Model
+
+
+Welcome to this deep dive into the MyBit Token Distribution Model, looking at how it works, why it is the perfect model for the MyBit community and how to get involved. 
+
+
+First, it is important to note why MyBit is holding Phase 2 of its Token Distribution. Now that MyBit’s core technology has been released, the next step is to scale and decentralise, which is why completing another funding round is crucial. By doing so, the project can expand its team and sharpen its focus on marketing and user acquisition. For more on the thinking behind Phase 2 of the Token Distribution, check out this dedicated blog on the topic. 
+
+
+
+
+How it works
+Phase 2 of the Token Distribution officially launches on 1 January 2019 at 12:00 UTC and will last for 365 days. Every 24 hours 100,000 MYB will be distributed. This equates to a total of 36.5 million tokens being distributed over the year and a total circulating supply of 143.5 million at the end of the Token Distribution.
+
+
+It is important to note that while these are estimates, some fifty percent of all contributed funds will be directly allocated to the DDF. In addition, while the distribution is ongoing MyBit’s team will continue developing products and the wider MyBit Network.
+
+
+
+
+Why this model
+This first thing to note about Phase 2 is that it follows a staggered distribution model. That is, 100,000 tokens being released each day for one year.
+
+
+Why did we choose this model? For three key reasons.
+
+
+First, a staggered distribution provides greater stability and avoids unnecessary volatility. With a staggered model price is dictated by demand instead of being pegged to a market price. For example, if 100 ETH is contributed during day one and an investor contributed 10 ETH of that, they would receive 10% or 10,000 MYB (which equates perfectly to the equivalent demand for the token). 
+
+
+If the price on exchanges does not equal the price of the distribution, then arbitrage will be conducted to capitalise on the price spreads. This, in theory, creates an equilibrium based on fair market price principles. 
+
+
+Secondly, and related to this, a staggered approach protects MyBit’s existing investors and the MyBit community. It is important to the entire MyBit team that none of those who have supported the project so far are inconvenienced by Phase 2 of the Token Distribution. The current model was chosen with this reality in mind. 
+For example, it is important that any manipulation of the market is avoided since the MyBit Token is already live. If the distribution was priced based solely on the market price, foul play could be a very possible outcome due to large holders being able to suppress or drop the price to obtain tokens at a lower value. With the current distribution model, existing investors will be protected while still having the opportunity to sell on the market throughout the distribution period.
+
+
+Thirdly, a staggered distribution model is the best one to support MyBit’s development. In a typical token distribution model, all 36.5 million tokens would be released at once. A staggered model allows the team to focus on developing the MyBit Network and on showing results throughout 2019 rather than pausing development to focus all of our energies on a token distribution (as would be required for a more typical 30-day event).
+
+
+The focus of the entire MyBit team is on delivering groundbreaking solutions and, for all of the reasons set out above, a staggered model is the logical way to go.
+
+
+
+
+Key details
+Here are some of the key details about the token distribution. After Phase 2 is complete, the circulating supply will be 143.5 million tokens with 36.5 million remaining in the treasury. Fifty percent of all contributed funds will be placed in the DDF with the other fifty percent will be split between funding internal development, marketing and operational costs. Some additional details are below:
+
+
+Total Supply: 180,000,000
+Circulating Supply: 143,500,000 (after Phase 2)
+CoinMarketCap: https://coinmarketcap.com/currencies/mybit/
+Source Code: https://github.com/MyBitFoundation/MyBit-Token
+Contract Address: 0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC
+
+
+
+
+How to register and get ready
+Be sure to sign up for more information about the Token Distribution using the form below. Members of the community will be the first to know about any updates from the MyBit project - so be prepared and sign up. 
+
+
+
+
+[Sign up form embed]
+
+
+Thank you for reading this deep dive into the MyBit Tokensale Model - hopefully it has been enlightening. As always, if there are any questions or comments, feel free to reach out to us on Telegram.
+
+
+Until next time!
+The MyBit Team.
